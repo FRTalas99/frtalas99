@@ -3,7 +3,7 @@
 ![](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f)
 ===========================================================================================================================================
 
-Hola! Francisco Risculese de éste lado 🤝 Un gusto conocerte!
+¡Hola! Francisco Risculese de éste lado 👨‍💻🤝 ¡Un gusto conocerte!
 -----------
 
 <div align="center">
@@ -76,16 +76,16 @@ Hola! Francisco Risculese de éste lado 🤝 Un gusto conocerte!
 -----------------------------------------------------------
 
 ### Proyectos
-* 🚀  Actualmente, me encuentro trabajando en 3 proyectos aplicados al sector energético (ofrezco ver el estado de avance de los mismos en éste mismo repositorio):
-  *  Estado de situación del mercado de EE.RR. en la Unión Europea
-  *  Herramientas aplicadas de Data Analytics & BI en O&M de plantas solares fotovoltaicas
-  *  Sistemas híbridos de generación eléctrica para abastecer la producción de hidrógeno verde en una planta industrial)
+*   Actualmente, me encuentro trabajando en 3 proyectos aplicados al sector energético:
+  * 📊  Estado de situación del mercado de EE.RR. en la Unión Europea
+  * ☀️  Herramientas aplicadas de Data Analytics & BI en O&M de plantas solares fotovoltaicas
+  * 🔋  Sistemas híbridos de generación eléctrica para abastecer la producción de hidrógeno verde en una planta industrial)
 * 🖥️  Comparto mi portfolio donde me encuentro aprendiendo y capacitando de forma independiente y autodidáctica: [https://github.com/FRTalas99/Portfolio-Data](http://https://github.com/FRTalas99/Portfolio-Data)
 -----------------------------------------------------------
 
 ### Skills | Languages | Tools
 
-<h3 align="left">Actualmente perfeccionando mis habilidades en éstos lenguajes y herramientas</h3>
+<h3 align="left">🚧  Actualmente perfeccionando mis habilidades en éstos lenguajes y herramientas</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 -----------------------------------------------------------
 
