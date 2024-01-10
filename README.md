@@ -25,22 +25,19 @@
  <h1 style= "font-family: 'Lexend'; font-size: 40px">👣Mis primeros pasos en el mundo de los datos</h1>
  
 <div align="left">
-📝 Cuento con una reciente formación en el rubro de Data Analytics y Data Science (ambos cursos, de Coderhouse).
+*  📝 Cuento con una reciente formación en el rubro de Data Analytics y Data Science (ambos cursos, de Coderhouse).
  
-📝 En paralelo a ello, siguiendo éstos pilares:
- 
-<li>Interés por la investigación</li><
-
- <h3><li>Deseo de aprendizaje continuo en temáticas trascendentales de la actualidad</li></h3>
-
- <h3><li>Actualización sobre las herramientas que hacen a un analista de datos y su entorno de aplicación</li></h3>
+*  📝 En paralelo a ello, siguiendo éstos pilares:
+   * Interés por la investigación
+   * Deseo de aprendizaje continuo en temáticas trascendentales de la actualidad
+   * Actualización sobre las herramientas que hacen a un analista de datos y su entorno de aplicación</li></h3>
 
 <div align="center">
  
  <h1 style= "font-family: 'Lexend'; font-size: 100px">👇</h1>
 
 <div align="left">
-    <h3>📝 He decidido iniciar varios proyectos (además de los que ya tengo finalizados con fines académicos) para fomentar la práctica constante y destacar en el mundo laboral con varias competencias adquiridas, y por adquirir.</h3>
+    <h2>📝 He decidido iniciar varios proyectos (además de los que ya tengo finalizados con fines académicos) para fomentar la práctica constante y destacar en el mundo laboral con varias competencias adquiridas, y por adquirir.</h2>
 
 </div>
 </div>
