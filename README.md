@@ -27,9 +27,9 @@
 <div align="left">
 📝 Cuento con una reciente formación en el rubro de Data Analytics y Data Science (ambos cursos, de Coderhouse).
  
- <h3>📝 En paralelo a ello, siguiendo éstos pilares:</h3>
+📝 En paralelo a ello, siguiendo éstos pilares:
  
- <h3><li>Interés por la investigación</li></h3>
+<li>Interés por la investigación</li><
 
  <h3><li>Deseo de aprendizaje continuo en temáticas trascendentales de la actualidad</li></h3>
 
@@ -85,7 +85,7 @@
 
 ### Skills | Languages | Tools
 
-<h3 align="left">🚧  Actualmente perfeccionando mis habilidades en éstos lenguajes y herramientas</h3>
+🚧  Actualmente perfeccionando mis habilidades en éstos lenguajes y herramientas
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 -----------------------------------------------------------
