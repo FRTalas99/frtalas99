@@ -18,14 +18,20 @@ Hola! Francisco Risculese de éste lado 🤝 Es un gusto conocerte!
 
 ![Tecnologia-verde-1200x675-1 (1)](https://github.com/FRTalas99/frtalas99/assets/147644289/07454bf3-3dc3-474e-8fff-00aeb56fed95)
 
+</div>
 
 <div style="width: 100%; text-align: center;">
-  <div style="max-width: 800px; margin: 0 auto; border: 4px solid #ed8a3f; padding: 10px;">
-    <h1 style="font-family: 'Lexend', sans-serif; color: black; font-size: 60px">👣Mis primeros pasos en el mundo de los datos</h1>
-    <p style="font-family: 'Lexend', sans-serif; color: black; font-size: 20px">
-Me encuentro dando mis primeros pasos en el mundo de los datos, contando con formación en el rubro de Data Analytics y Data Science (ambos cursos, de Coderhouse).
-    <p style="font-family: 'Lexend', sans-serif; color: black; font-size: 20px">
-En paralelo a ello, a causa de mi interés por la investigación, queriendo aprender cada vez más en cuestiones trascendentales actualmente, y la permanente actualización sobre las herramientas que hacen a un analista de datos, he decidido iniciar varios proyectos (además de los que ya tengo finalizados con fines académicos) para fomentar la práctica constante y destacar en el mundo laboral con varias competencias a adquirir.
+    <h1 style="font-family: 'Lexend', sans-serif; color: black; font-size: 40px">👣Mis primeros pasos en el mundo de los datos</h1>
+ 
+</div>
+
+<div style="width: 100%; text-align: left;">
+<h1 style= "font-family: 'Lexend'; font-size: 20px">
+Cuento con una reciente formación en el rubro de Data Analytics y Data Science (ambos cursos, de Coderhouse).
+<h1 style= "font-family: 'Lexend'; font-size: 20px">
+En paralelo a ello, a causa de mi interés por la investigación, queriendo aprender cada vez más en cuestiones trascendentales en la actualidad, y la permanente actualización sobre las herramientas que hacen a un analista de datos, he decidido iniciar varios proyectos (además de los que ya tengo finalizados con fines académicos) para fomentar la práctica constante y destacar en el mundo laboral con varias competencias adquiridas, y por adquirir.
+
+</div>
 
 <div align="center">
  
@@ -65,3 +71,16 @@ Me interesa, también, aplicar las herramientas del Data Analytics & BI para var
 <p align="left"> <a href="https://www.github.com/FRTalas99" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/francisco-risculese/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 -----------------------------------------------------------
+
+
+
+<h1 align="center">Hi 👋, I'm Francisco</h1>
+<h3 align="center">Data Analyst | Data Scientist beginner</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/francisco-risculese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-risculese" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
