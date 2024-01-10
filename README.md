@@ -1,25 +1,23 @@
 <div align="center">
  
 ![](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f)
-</div>
+===========================================================================================================================================
 
 Hola! Francisco Risculese de éste lado 🤝 Es un gusto conocerte!
-===========================================================================================================================================
+-----------
 
 <div align="center">
 
 ![Repo pic](https://github.com/FRTalas99/frtalas99/assets/147644289/fbc8906f-cd8e-4a88-be6f-33722baef568)
 
 
-<h1 style= "font-size: 60px">
+<h1 style= "font-family: 'Lexend'; font-size: 60px">
+<b>Power BI | SQL | Excel | Python</b>
 
-Power BI | SQL | Excel | Python
-
------------------------------------------------------------
-
+-----------
 
 ![Tecnologia-verde-1200x675-1 (1)](https://github.com/FRTalas99/frtalas99/assets/147644289/07454bf3-3dc3-474e-8fff-00aeb56fed95)
------------------------------------------------------------
+
 
 <div style="width: 100%; text-align: center;">
   <div style="max-width: 800px; margin: 0 auto; border: 4px solid #ed8a3f; padding: 10px;">
