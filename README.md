@@ -25,7 +25,7 @@
  <h1 style= "font-family: 'Lexend'; font-size: 40px">👣Mis primeros pasos en el mundo de los datos</h1>
  
 <div align="left">
- <h3>📝 Cuento con una reciente formación en el rubro de Data Analytics y Data Science (ambos cursos, de Coderhouse).</h3>
+📝 Cuento con una reciente formación en el rubro de Data Analytics y Data Science (ambos cursos, de Coderhouse).
  
  <h3>📝 En paralelo a ello, siguiendo éstos pilares:</h3>
  
