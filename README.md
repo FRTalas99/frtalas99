@@ -75,7 +75,7 @@
   * ☀️  Herramientas aplicadas de Data Analytics & BI en O&M de plantas solares fotovoltaicas
   * 🔋  Sistemas híbridos de generación eléctrica para abastecer la producción de hidrógeno verde en una planta industrial
 
-* 🖥️  En los próximos días estaré compartiendo el repositorio, en donde quiero compartir la evolución y el contenido de los proyectos listados anteriormente.
+* 🖥️  En los próximos días estaré compartiendo el repositorio, en donde quiero compartir la evolución y el contenido de los proyectos listados anteriormente
 
 ![Tecnologia-verde-1200x675-1 (1)](https://github.com/FRTalas99/frtalas99/assets/147644289/07454bf3-3dc3-474e-8fff-00aeb56fed95)
 -----------------------------------------------------------
