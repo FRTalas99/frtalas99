@@ -1,45 +1,37 @@
 <div align="center">
  
 ![](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f)
-===========================================================================================================================================
+
 
 ¡Hola! Francisco Risculese de éste lado 👨‍💻🤝 ¡Un gusto conocerte!
 -----------
 
-<div align="center">
-
 ![Repo pic](https://github.com/FRTalas99/frtalas99/assets/147644289/fbc8906f-cd8e-4a88-be6f-33722baef568)
 
+-----------
 
 <h1 style= "font-family: 'Lexend'; font-size: 60px">
 <b>Power BI | SQL | Excel | Python basic</b>
 
 -----------
 
-![Tecnologia-verde-1200x675-1 (1)](https://github.com/FRTalas99/frtalas99/assets/147644289/07454bf3-3dc3-474e-8fff-00aeb56fed95)
+</div>
 
-</div>
-</div>
+
 
 <div align="center">
- <h1 style= "font-family: 'Lexend'; font-size: 40px">👣Mis primeros pasos en el mundo de los datos</h1>
- 
+
+<h1 style= "font-family: 'Lexend'; font-size: 40px">👣Mis primeros pasos en el mundo de los datos</h1>
+
 <div align="left">
 
 *  📝  Cuento con una reciente formación en el rubro de Data Analytics y Data Science (ambos cursos, de Coderhouse).
- 
+
 *  📝 En paralelo a ello, siguiendo éstos pilares:
    * Interés por la investigación
    * Deseo de aprendizaje continuo en temáticas trascendentales de la actualidad
    * Actualización sobre las herramientas que hacen a un analista de datos y su entorno de aplicación</li></h3>
-
-<div align="center">
-
- 👇
-
-<div align="left">
-📝 He decidido iniciar varios proyectos (además de los que ya tengo finalizados con fines académicos) para fomentar la práctica constante y destacar en el mundo laboral con varias competencias adquiridas, y por adquirir.
-
+*  📌 He decidido iniciar varios proyectos (además de los que ya tengo finalizados con fines académicos) para fomentar la práctica constante y destacar en el mundo laboral con varias competencias adquiridas, y por adquirir.
 </div>
 </div>
 </div>
@@ -74,11 +66,14 @@
 -----------------------------------------------------------
 
 ### Proyectos
-*   Actualmente, me encuentro trabajando en 3 proyectos aplicados al sector energético:
+*   Actualmente, me encuentro por iniciar el desarrollo de 3 proyectos aplicados al sector energético (independientes y para fines autodidácticos):
   * 📊  Estado de situación del mercado de EE.RR. en la Unión Europea
   * ☀️  Herramientas aplicadas de Data Analytics & BI en O&M de plantas solares fotovoltaicas
   * 🔋  Sistemas híbridos de generación eléctrica para abastecer la producción de hidrógeno verde en una planta industrial)
+
 * 🖥️  Comparto mi portfolio donde me encuentro aprendiendo y capacitando de forma independiente y autodidáctica: [https://github.com/FRTalas99/Portfolio-Data](http://https://github.com/FRTalas99/Portfolio-Data)
+
+![Tecnologia-verde-1200x675-1 (1)](https://github.com/FRTalas99/frtalas99/assets/147644289/07454bf3-3dc3-474e-8fff-00aeb56fed95)
 -----------------------------------------------------------
 
 ### Skills | Languages | Tools
