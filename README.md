@@ -30,8 +30,8 @@
 *  📝 En paralelo a ello, siguiendo éstos pilares:
    * Interés por la investigación
    * Deseo de aprendizaje continuo en temáticas trascendentales de la actualidad
-   * Actualización sobre las herramientas que hacen a un analista de datos y su entorno de aplicación</li></h3>
-*  📌 He decidido iniciar varios proyectos (además de los que ya tengo finalizados con fines académicos) para fomentar la práctica constante y destacar en el mundo laboral con varias competencias adquiridas, y por adquirir.
+   * Actualización sobre las herramientas que hacen a un analista de datos y su entorno de aplicación...</li></h3>
+*  📌 ...He decidido iniciar varios proyectos (además de los que ya tengo finalizados con fines académicos) para fomentar la práctica constante y destacar en el mundo laboral (con varias competencias logradas, y otras por adquirir).
 </div>
 </div>
 </div>
@@ -53,7 +53,7 @@
 * 🌎  Vivo en Berisso (Buenos Aires - Argentina)
 * 🙋‍♂  Nací un 26 de abril de 1999 en la Ciudad de La Plata
 * 👨‍🎓  Cuento con el título de grado en Ingeniería Química, siendo egresado de la UTN-FRLP (en marzo-2023), también, soy Docente investigador en el Equipo EnAlTecS (desde abril-2022)
-* 🔎  La investigación aplicada al sector energético, energías renovables y nuevas tecnologías, en pos de ser abordadas por los datos, es uno de mis tópicos favoritos, ya que cuento con experiencia en las temáticas como becario y como investigador, y he participado en varios proyectos relacionados al ámbito
+* 🔎  La investigación aplicada al sector energético, energías renovables y nuevas tecnologías, en pos de ser abordadas por las nuevas tecnologías del análisis de datos, es uno de mis tópicos favoritos, ya que cuento con experiencia en las temáticas como becario y como investigador, y he participado en varios proyectos relacionados al ámbito
 * 📖  También, otras áreas de competencias en las que me desarrollo (y con las que me capacito periódicamente) son la electromovilidad, energías renovables - como la solar, eólica, biomasa y el hidrógeno verde - y los sistemas híbridos de generación energética
 * 🏭  Desaría aplicar las herramientas del Data Analytics para varias áreas de la industria de procesos, en donde el rol de un Ingeniero químico puede serle de utilidad al negocio y las cadenas de valor organizacionales, a ser:
 
@@ -62,7 +62,7 @@
   * Operaciones
   * Procesos
 
-* 🧠  Deseo capacitarme en otras áreas del mundo de los datos:
+* 🧠  Deseo capacitarme en otras áreas del mundo de los datos, como por ejemplo:
   *  Data Warehouse
   *  BI
   *  Python aplicado a proyectos de Data Science y Data Analytics
@@ -73,12 +73,9 @@
 *   Actualmente, me encuentro por iniciar el desarrollo de 3 proyectos aplicados al sector energético (independientes y para fines autodidácticos):
   * 📊  Estado de situación del mercado de EE.RR. en la Unión Europea
   * ☀️  Herramientas aplicadas de Data Analytics & BI en O&M de plantas solares fotovoltaicas
-  * 🔋  Sistemas híbridos de generación eléctrica para abastecer la producción de hidrógeno verde en una planta industrial)
+  * 🔋  Sistemas híbridos de generación eléctrica para abastecer la producción de hidrógeno verde en una planta industrial
 
-* 🖥️  Comparto mi portfolio donde me encuentro aprendiendo y capacitando de forma independiente y autodidáctica: [https://github.com/FRTalas99/Portfolio-Data](http://https://github.com/FRTalas99/Portfolio-Data)
-
-https://github.com/FRTalas99/Acceso_energetico_ES
-
+* 🖥️  En los próximos días estaré compartiendo el repositorio, en donde quiero compartir la evolución y el contenido de los proyectos listados anteriormente.
 
 ![Tecnologia-verde-1200x675-1 (1)](https://github.com/FRTalas99/frtalas99/assets/147644289/07454bf3-3dc3-474e-8fff-00aeb56fed95)
 -----------------------------------------------------------
