@@ -77,6 +77,9 @@
 
 * 🖥️  Comparto mi portfolio donde me encuentro aprendiendo y capacitando de forma independiente y autodidáctica: [https://github.com/FRTalas99/Portfolio-Data](http://https://github.com/FRTalas99/Portfolio-Data)
 
+https://github.com/FRTalas99/Acceso_energetico_ES
+
+
 ![Tecnologia-verde-1200x675-1 (1)](https://github.com/FRTalas99/frtalas99/assets/147644289/07454bf3-3dc3-474e-8fff-00aeb56fed95)
 -----------------------------------------------------------
 
