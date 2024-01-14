@@ -3,7 +3,7 @@
 ![](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f)
 
 
-¡Hola! Francisco Risculese de éste lado 👨‍💻🤝 ¡Un gusto conocerte!
+¡Hola! Francisco Risculese de este lado 👨‍💻🤝 ¡Un gusto conocerte!
 -----------
 
 ![Repo pic](https://github.com/FRTalas99/frtalas99/assets/147644289/fbc8906f-cd8e-4a88-be6f-33722baef568)
